@@ -1,0 +1,4 @@
+*.sqlite3
+.coverage
+node_modules/
+.vscode/
